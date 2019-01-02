@@ -1,0 +1,11 @@
+git init
+
+echo >> redme.md
+
+$ git config --local user.name "Dimid"
+
+$ git config --local user.email "d@gmail.com"
+
+git add -A
+
+git status
