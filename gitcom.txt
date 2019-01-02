@@ -9,3 +9,5 @@ $ git config --local user.email "d@gmail.com"
 git add -A
 
 git status
+
+git commit -a -m "namecommit"
